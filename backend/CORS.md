@@ -78,3 +78,7 @@ Cross Origin Resource Sharing
    
 
 
+[참고문헌]
+1. https://yeonyeon.tistory.com/236 JWT 해결 관련
+2. https://velog.io/@antcode97/Cors%EB%A1%9C-%EB%98%90-%EC%82%BD%EC%A7%88 Chrome Extension 관련
+
